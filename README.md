@@ -26,7 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto AluraBooks - tela de cadastro, tem como objetivo ampliar os conhecimento quanto ao uso de APIs no JavaScript. <br>
 Foi utilizado a API viacep, usada pra gerar um auto complite do endereço da pessoa, bastando informar apenas o CEP. <br>
-A API ViaCEP pode ser acessada [neste link](https://viacep.com.br/)
+A API ViaCEP pode ser acessada [neste link](https://viacep.com.br/) <br>
+Além disso, foram feitas algumas validações básicas nos outros campos da tela de cadastro.
 
 - [Visite o projeto online](https://mathfrlima.github.io/Alura-formulario-cadastro-cep/)
 
